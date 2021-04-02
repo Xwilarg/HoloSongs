@@ -1,0 +1,17 @@
+#gridSearch {
+    position: absolute;
+    border: 1px black solid;
+    left: calc(50% - 20em);
+    width: 40em;
+    display: flex;
+}
+
+.member {
+    width: 5em;
+    height: 7.50em;
+    border: 1px black solid;
+}
+
+.hidden {
+    display: none !important;
+}
