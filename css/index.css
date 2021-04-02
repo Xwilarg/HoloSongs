@@ -20,3 +20,8 @@ img, iframe {
     width: 480px;
     height: 360px;
 }
+
+#songs {
+    display: flex;
+    flex-flow: wrap;
+}
