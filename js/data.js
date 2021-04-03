@@ -141,13 +141,7 @@ let data = {
         "covers": []
     },
 
-    // JP GEN 5
-    "botan": {
-        "original": [
-            "3qkXc6zheig" // BLUE CLAPPER (with Lamy, Polka and Nene)
-        ],
-        "covers": []
-    },
+    // JP GEN 4
     "kanata": {
         "original": [],
         "covers": [
@@ -158,8 +152,30 @@ let data = {
             "_kT4a8IzM70", // 秒針を噛む
             "yk51RdzaMUE", // 月陽 ツキアカリ (with Suisei)
             "hicAYp7KXKk", // KING
-            "YcfZziSg0cg" // 三つ葉の結びめ (with AZKi)
+            "YcfZziSg0cg", // 三つ葉の結びめ (with AZKi)
+            "TyILqS4nF3M" // chocolate box (with Watame)
         ]
+    },
+    "watame": {
+        "original": [
+            "DGun2cWbPEM", // 曇天羊 (with Mori)
+            "P8OjkcLzYCM" // 愛昧ショコラーテ
+        ],
+        "covers": [
+            "2I3oQIF6UaU", // バブルラブ
+            "L7MvA9i7byQ", // 恋愛サーキュレーション
+            "OR1Epbc_NNE", // KING
+            "i6woCvMq5Xg", // メランコリック
+            "TyILqS4nF3M" // chocolate box (with Kanata)
+        ]
+    },
+
+    // JP GEN 5
+    "botan": {
+        "original": [
+            "3qkXc6zheig" // BLUE CLAPPER (with Lamy, Polka and Nene)
+        ],
+        "covers": []
     },
     "lamy": {
         "original": [
@@ -189,10 +205,29 @@ let data = {
     },
 
     // EN Gen 1
+    "mori": {
+        "original": [
+            "_M-6lkoi6L4", // Off With Their Heads
+            "6ydgEipkUEU", // DEAD BEATS
+            "5y3xh8gs24c", // 失礼しますが、RIP♡
+            "h-LOlueKCtk", // Live Again
+            "VYu3PvRPZR8", // Cursed Night
+            "DGun2cWbPEM" // 曇天羊 (with Watame)
+        ],
+        "covers": [
+            "pXD4BbYludc" // ワーワーワールド
+        ]
+    },
     "gura": {
         "original": [],
         "covers": [
             "2ys9IS5r9yA", // 空色デイズ (with Matsuri)
+        ]
+    },
+    "kiara": {
+        "original": [],
+        "covers": [
+            "pXD4BbYludc" // ワーワーワールド
         ]
     },
 
