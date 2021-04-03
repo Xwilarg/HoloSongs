@@ -75,7 +75,8 @@ let data = {
             "2ys9IS5r9yA", // 空色デイズ (with Gura)
             "f4dJFe4MGcs", // KING
             "1KyLE_Ejf-U", // Preserved Roses (with Rikka)
-            "phGUYXm1e_I" // Colorful World
+            "phGUYXm1e_I", // Colorful World
+            "MNcnT8wBcdw" // 心做し
         ]
     },
     "mel": {

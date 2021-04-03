@@ -17,11 +17,16 @@
 }
 
 img, iframe {
-    width: 480px;
-    height: 360px;
+    width: 320px;
+    height: 180px;
 }
 
 #songs {
     display: flex;
     flex-flow: wrap;
+}
+
+.break {
+    flex-basis: 100%;
+    height: 0;
 }
