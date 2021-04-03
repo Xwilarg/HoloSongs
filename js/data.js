@@ -1,7 +1,6 @@
 let data = {
     // JP GEN 0
     "suisei": {
-        "original": [],
         "covers": [
             "yk51RdzaMUE", // 月陽 ツキアカリ (with Kanata)
         ]
@@ -9,7 +8,6 @@ let data = {
 
     // AZKi
     "azki": {
-        "original": [],
         "covers": [
             "YcfZziSg0cg" // 三つ葉の結びめ (with Kanata)
         ]
@@ -17,13 +15,11 @@ let data = {
 
     // GAMERS
     "fubuki": {
-        "original": [
+        "hololive": [
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Ayame)
         ],
-        "covers": []
     },
     "korone": {
-        "original": [],
         "covers": [
             "G49bAinM6Lc", // 恋愛裁判
             "OGYu6Kj3bL0", // スイートマジック
@@ -32,7 +28,7 @@ let data = {
         ]
     },
     "mio": {
-        "original": [
+        "hololive": [
             "x1BGG98tcrg", // 至上主義アドトラック (with Flare and Matsuri)
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Fubuki and Ayame)
         ],
@@ -57,14 +53,19 @@ let data = {
 
     // JP GEN 1
     "haato": {
-        "original": [],
-        "covers": [
+        "hololive": [
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Polka and Nene)
+        ],
+        "original": [
+            "z94HX5JtfA4" // 最近視線を感じます (with Watame)
         ]
     },
     "matsuri": {
-        "original": [
+        "hololive": [
             "x1BGG98tcrg" // 至上主義アドトラック (with Flare and Mio)
+        ],
+        "original": [
+            "llv_1-WEQGg" // 君と眺める夏の花
         ],
         "covers": [
             "kMPx3AHvwtA", // お願いダーリン
@@ -80,51 +81,44 @@ let data = {
         ]
     },
     "mel": {
-        "original": [
+        "hololive": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Shion, Choco and Rushia)
         ],
-        "covers": []
     },
 
     // JP GEN 2
     "aqua": {
-        "original": [],
         "covers": [
             "0OtNQEpSeIA" // チューリングラブ (with Okayu)
         ]
     },
     "ayame": {
-        "original": [
+        "hololive": [
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Fubuki)
-        ],
-        "covers": []
+        ]
     },
     "choco": {
-        "original": [
+        "hololive": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Shion and Rushia)
-        ],
-        "covers": []
+        ]
     },
     "shion": {
-        "original": [
+        "hololive": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Choco and Rushia)
-        ],
-        "covers": []
+        ]
     },
     "subaru": {
         "original": [
             "t-Y-UnC2HQo", // 恋の魔法
             "qrZtEACCwIU" // どぅーまいべすと！歌ってみた！
-        ],
-        "covers": []
+        ]
     },
 
     // JP GEN 3
     "flare": {
-        "original": [
+        "hololive": [
             "x1BGG98tcrg" // 至上主義アドトラック (with Matsuri and Mio)
-        ],
-        "covers": []
+        ]
     },
     "marine": {
         "original": [
@@ -135,10 +129,9 @@ let data = {
         ]
     },
     "rushia": {
-        "original": [
+        "hololive": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Choco and Shion)
-        ],
-        "covers": []
+        ]
     },
 
     // JP GEN 4
@@ -159,7 +152,13 @@ let data = {
     "watame": {
         "original": [
             "DGun2cWbPEM", // 曇天羊 (with Mori)
-            "P8OjkcLzYCM" // 愛昧ショコラーテ
+            "P8OjkcLzYCM", // 愛昧ショコラーテ
+            "HCfJC2dwK6o", // はらぺこのうた
+            "lxx_nwm_8PU", // わための子守唄
+            "j5n1zqsvfXo", // わためラップ
+            "JKLS98vCQco", // てぇてぇのうた
+            "q4O-JlmrdQA", // ホロライブ言えるかな？
+            "z94HX5JtfA4" // 最近視線を感じます (with Haato)
         ],
         "covers": [
             "2I3oQIF6UaU", // バブルラブ
@@ -172,35 +171,33 @@ let data = {
 
     // JP GEN 5
     "botan": {
-        "original": [
+        "hololive": [
             "3qkXc6zheig" // BLUE CLAPPER (with Lamy, Polka and Nene)
-        ],
-        "covers": []
+        ]
     },
     "lamy": {
-        "original": [
+        "hololive": [
             "3qkXc6zheig" // BLUE CLAPPER (with Botan, Polka and Nene)
-        ],
-        "covers": []
+        ]
     },
     "nene": {
-        "original": [
-            "3qkXc6zheig" // BLUE CLAPPER (with Lamy, Polka and Botan)
-        ],
-        "covers": [
+        "hololive": [
+            "3qkXc6zheig", // BLUE CLAPPER (with Lamy, Polka and Botan)
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Polka and Haato)
         ]
     },
     "polka": {
+        "hololive": [
+            "3qkXc6zheig", // BLUE CLAPPER (with Lamy, Nene and Botan)
+            "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Nene and Haato)
+        ],
         "original": [
-            "LQ_eazT56FA", // HOLOGRAM CIRCUS
-            "3qkXc6zheig" // BLUE CLAPPER (with Lamy, Nene and Botan)
+            "LQ_eazT56FA" // HOLOGRAM CIRCUS
         ],
         "covers": [
             "UpoysjZfWrU", // エンヴィーベイビー
             "NdHPnTd2Jd8", // ルーザーガール
-            "syhlmTNW_a8", // メンヘラじゃないもん！
-            "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Nene and Haato)
+            "syhlmTNW_a8" // メンヘラじゃないもん！
         ]
     },
 
@@ -212,20 +209,20 @@ let data = {
             "5y3xh8gs24c", // 失礼しますが、RIP♡
             "h-LOlueKCtk", // Live Again
             "VYu3PvRPZR8", // Cursed Night
-            "DGun2cWbPEM" // 曇天羊 (with Watame)
+            "DGun2cWbPEM", // 曇天羊 (with Watame)
+            "VNU2BDdgPZ8", // Ibasho
+            "vz7JIBvAFqM", // ReaperかRapper?
         ],
         "covers": [
             "pXD4BbYludc" // ワーワーワールド
         ]
     },
     "gura": {
-        "original": [],
         "covers": [
             "2ys9IS5r9yA", // 空色デイズ (with Matsuri)
         ]
     },
     "kiara": {
-        "original": [],
         "covers": [
             "pXD4BbYludc" // ワーワーワールド
         ]
@@ -233,7 +230,6 @@ let data = {
 
     // Holostars GEN 1
     "rikka": {
-        "original": [],
         "covers": [
             "j84IEsVYGyE", // 白日 (with Matsuri)
             "Z-q5aJm0UJE", // DADDY! DADDY! DO! (with Matsuri)

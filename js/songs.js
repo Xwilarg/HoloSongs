@@ -13,7 +13,7 @@ function toggle(id,name) {
     last = id + "_" + name;
 }
 
-function getVideoHtml(e, name) {
+function getVideoHtml(e, name, className) {
     return `
         <div>
             <img id="img_` + e + `_` + name + `" src="http://img.youtube.com/vi/` + e + `/mqdefault.jpg" onclick="toggle('` + e + `', '` + name + `')"/>
@@ -26,12 +26,23 @@ function search(name) {
     document.getElementById("gridSearch").classList.add("hidden");
     let d = data[name];
     let str = "";
-    d.original.forEach(e => {
-        str += getVideoHtml(e);
-    });
-    d.covers.forEach(e => {
-        str += getVideoHtml(e);
-    });
+    if (d.hololive !== undefined) {
+        d.hololive.forEach(e => {
+            str += getVideoHtml(e);
+        });
+    }
+    str += "<div class='break'></div>";
+    if (d.original !== undefined) {
+        d.original.forEach(e => {
+            str += getVideoHtml(e);
+        });
+    }
+    str += "<div class='break'></div>";
+    if (d.covers !== undefined) {
+        d.covers.forEach(e => {
+            str += getVideoHtml(e);
+        });
+    }
     document.getElementById("songs").innerHTML = str;
 }
 
@@ -40,12 +51,23 @@ window.onload = function() {
     for (var key in data) {
         str += "<h2>" + key + "</h2><div class='break'></div>";
         let d = data[key];
-        d.original.forEach(e => {
-            str += getVideoHtml(e, key);
-        });
-        d.covers.forEach(e => {
-            str += getVideoHtml(e, key);
-        });
+        if (d.hololive !== undefined) {
+            d.hololive.forEach(e => {
+                str += getVideoHtml(e, key);
+            });
+        }
+        str += "<div class='break'></div>";
+        if (d.original !== undefined) {
+            d.original.forEach(e => {
+                str += getVideoHtml(e, key);
+            });
+        }
+        str += "<div class='break'></div>";
+        if (d.covers !== undefined) {
+            d.covers.forEach(e => {
+                str += getVideoHtml(e, key);
+            });
+        }
         str += "<div class='break'></div>";
     }
     document.getElementById("songs").innerHTML = str;
