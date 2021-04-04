@@ -32,7 +32,7 @@ function getName(name) {
 function search(name) {
     document.getElementById("gridSearch").classList.add("hidden");
     let d = data[name];
-    let str = "";
+    let str = "<div id='songs'>";
     if (d.hololive !== undefined) {
         d.hololive.forEach(e => {
             str += getVideoHtml(e);
@@ -50,13 +50,14 @@ function search(name) {
             str += getVideoHtml(e);
         });
     }
-    document.getElementById("songs").innerHTML = str;
+    str += "</div>"
+    document.getElementById("songsCat").innerHTML = str;
 }
 
 window.onload = function() {
     let str = "";
     for (var key in data) {
-        str += "<h2>" + getName(key) + "</h2><div class='break'></div>";
+        str += "<h2>" + getName(key) + "</h2><div id='songs'>";
         let d = data[key];
         if (d.hololive !== undefined) {
             d.hololive.forEach(e => {
@@ -75,7 +76,7 @@ window.onload = function() {
                 str += getVideoHtml(e, key);
             });
         }
-        str += "<div class='break'></div>";
+        str += "</div>";
     }
-    document.getElementById("songs").innerHTML = str;
+    document.getElementById("songsCat").innerHTML = str;
 }

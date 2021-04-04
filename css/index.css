@@ -1,3 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
 #gridSearch {
     position: absolute;
     border: 1px black solid;
@@ -25,6 +32,11 @@ img, iframe {
 #songs {
     display: flex;
     flex-flow: wrap;
+    margin-left: .7em;
+}
+
+p {
+    margin-left: 1em;
 }
 
 .break {
@@ -33,9 +45,9 @@ img, iframe {
 }
 
 #search {
-    padding-top: .5em;
-    padding-bottom: .5em;
-    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
     background-color: #74CFE2;
 }
 
