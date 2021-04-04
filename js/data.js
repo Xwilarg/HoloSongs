@@ -32,20 +32,49 @@ let data = {
             "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Marine, Flare and Suisei)
             "S3UOnkcbxjY", // 気まぐれロマンティック
             "ZRwvRUjk1Qs", // そばかす
-            "c_YbCIqUHLo" // からくりピエロ
+            "c_YbCIqUHLo", // からくりピエロ
+            "RKigW0TteZY", // 海を泳ぐ月
+            "wHw3jSvZxNI", // 太陽系デスコ
+            "zcU6WIaT9DA", // メランコリック
+            "KqE7Bwhd-rE", // 夏祭り
+            "WF9P_NXHh5M", // スイートマジック
+            "f2gMOT8T7SE", // 壮絶激昂
+            "yXM8kbfLGJo", // 猫猫的宇宙論
+            "x1_OmuQLRYU", // ダイアモンドクレバス
+            "COTlkuHohm0", // アンヘル
+            "wZHodOVE0sc", // ただ君に晴れ
+            "T3lNQRaqZNs", // オートファジー
+            "rn54OXCuTZs", // ライオン (with Fuji Aoi)
+            "zsBD66Sa5Yg", // サンドリヨン (with Gorilla Virtual)
+            "gb_jfOQd64c", // Mrs.Pumpkinの滑稽な夢 (with YuNi, Kashiko Mari and Hibiki Ao)
+            "35fKzdDH654", // 檄!帝国華撃団 (with Fuji Aoi and Suntory Nomu)
+            "bcwApgI4fXo", // ドーナツホール (with AMENOSEI)
+            "K7FqZJS-ZwA", // リモコン (with Robocco)
+            "h7NE6BoTCIA", // 暁の車 歌ってみた (with AZKi)
+            "7w3jBGX7UcY", // おジャ魔女カーニバル!! (with Tenjin Kotone)
+            "5yDNEmcKQFY", // 餞の鳥 (with Suisei)
+            "WKmzvtEv9Wc" // 東京サマーセッション (with AZKi)
         ]
     },
     "suisei": {
         "covers": [
             "yk51RdzaMUE", // 月陽 ツキアカリ (with Kanata)
-            "Ur0K2WA67jw" // Alice in N.Y. (with Kanata, Marine, Flare and Sora)
+            "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Marine, Flare and Sora)
+            "5yDNEmcKQFY" // 餞の鳥 (with Sora)
+        ]
+    },
+    "robocoo": {
+        "covers": [
+            "K7FqZJS-ZwA", // リモコン (with Sora)
         ]
     },
 
     // AZKi
     "azki": {
         "covers": [
-            "YcfZziSg0cg" // 三つ葉の結びめ (with Kanata)
+            "YcfZziSg0cg", // 三つ葉の結びめ (with Kanata)
+            "h7NE6BoTCIA", // 暁の車 歌ってみた (with Sora)
+            "WKmzvtEv9Wc" // 東京サマーセッション (with Sora)
         ]
     },
 
