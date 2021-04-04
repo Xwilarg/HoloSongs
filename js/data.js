@@ -1,3 +1,10 @@
+let names = {
+    "miko": "Sakura Miko",
+    "sora": "Tokino Sora",
+    "suisei": "Hoshimachi Suisei",
+    "roboco": "Roboco"
+};
+
 let data = {
     // JP GEN 0
     "miko": {
@@ -63,7 +70,7 @@ let data = {
             "5yDNEmcKQFY" // 餞の鳥 (with Sora)
         ]
     },
-    "robocoo": {
+    "roboco": {
         "covers": [
             "K7FqZJS-ZwA", // リモコン (with Sora)
         ]

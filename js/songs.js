@@ -22,6 +22,13 @@ function getVideoHtml(e, name, className) {
     `;
 }
 
+function getName(name) {
+    if (names[name] === undefined) {
+        return name;
+    }
+    return names[name];
+}
+
 function search(name) {
     document.getElementById("gridSearch").classList.add("hidden");
     let d = data[name];
@@ -49,7 +56,7 @@ function search(name) {
 window.onload = function() {
     let str = "";
     for (var key in data) {
-        str += "<h2>" + key + "</h2><div class='break'></div>";
+        str += "<h2>" + getName(key) + "</h2><div class='break'></div>";
         let d = data[key];
         if (d.hololive !== undefined) {
             d.hololive.forEach(e => {
