@@ -1,8 +1,44 @@
 let data = {
     // JP GEN 0
+    "miko": {
+        "original": [
+            "uRB1G0cKpIk" // ぺこみこ大戦争！！
+        ]
+    },
+    "sora": {
+        "original": [
+            "BvlCYJ1XZ3Y", // 木の芽時の空
+            "kTV6uSmiXEw", // 夢色アスタリスク
+            "pKASI4dEG3A", // わたしとあなたと皆さまと！
+            "Pgmleabc1nQ", // あの日見た空
+            "owwXwGXUm0g", // おかえり
+            "yVxmv4oqPzs", // 未練レコード (collab 40mP)
+            "Z9oZ4r0cxME", // Wandering Days (collab シグナルP)
+            "MjkDaUwPzkU", // そんな雨の日には (collab はるまきごはん)
+            "nP5mhWX2i0Q", // 海より深い空の下 (collab アゴアニキ)
+            "rbd-m8r5Ujs", // Dream☆Story (collab キノシタ)
+            "ahsAXmCt2rU", // フレーフレーLOVE
+            "APQZKmC11mc", // 青空のシンフォニー
+            "A4rwGGrBVrg", // ぐるぐる・ラブストーリー
+            "OG6yRuj3KkY", // Step and Go!!
+            "0XW7d83XI_s" // ブルーベリームーン
+        ],
+        "covers": [
+            "ljIov4qdYic", // 彗星ハネムーン
+            "NT6Pf28eCgQ", // エイリアンエイリアン
+            "N9Gqht8POm4", // KING
+            "sf_crPbd-TQ", // ベノム
+            "AId5uW2OpNM", // 恋愛裁判
+            "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Marine, Flare and Suisei)
+            "S3UOnkcbxjY", // 気まぐれロマンティック
+            "ZRwvRUjk1Qs", // そばかす
+            "c_YbCIqUHLo" // からくりピエロ
+        ]
+    },
     "suisei": {
         "covers": [
             "yk51RdzaMUE", // 月陽 ツキアカリ (with Kanata)
+            "Ur0K2WA67jw" // Alice in N.Y. (with Kanata, Marine, Flare and Sora)
         ]
     },
 
@@ -18,6 +54,9 @@ let data = {
         "hololive": [
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Ayame)
         ],
+        "covers": [
+            "fSVFZGj0k_M" // ピザ パスタ ピザ のうた (with Aruran)
+        ]
     },
     "korone": {
         "covers": [
@@ -118,6 +157,9 @@ let data = {
     "flare": {
         "hololive": [
             "x1BGG98tcrg" // 至上主義アドトラック (with Matsuri and Mio)
+        ],
+        "covers": [
+            "Ur0K2WA67jw" // Alice in N.Y. (with Kanata, Marine, Sora and Suisei)
         ]
     },
     "marine": {
@@ -125,7 +167,17 @@ let data = {
             "e7VK3pne8N4" // Ahoy!! 我ら宝鐘海賊団☆
         ],
         "covers": [
-            "JYtt0inzDR4" // BLOODY STREAM
+            "JYtt0inzDR4", // BLOODY STREAM
+            "Ur0K2WA67jw" // Alice in N.Y. (with Kanata, Sora, Flare and Suisei)
+        ]
+    },
+    "pekora": {
+        "original": [
+            "_KTwDH_KQ_g", // ぺこらんだむぶれいん！
+            "uRB1G0cKpIk" // ぺこみこ大戦争！！
+        ],
+        "covers": [
+            "AAr2lHZLNyU" // ディスコミュ星人
         ]
     },
     "rushia": {
@@ -146,7 +198,8 @@ let data = {
             "yk51RdzaMUE", // 月陽 ツキアカリ (with Suisei)
             "hicAYp7KXKk", // KING
             "YcfZziSg0cg", // 三つ葉の結びめ (with AZKi)
-            "TyILqS4nF3M" // chocolate box (with Watame)
+            "TyILqS4nF3M", // chocolate box (with Watame)
+            "Ur0K2WA67jw" // Alice in N.Y. (with Sora, Marine, Flare and Suisei)
         ]
     },
     "watame": {
@@ -201,6 +254,23 @@ let data = {
         ]
     },
 
+    // ID Gen 2
+    "iofi": {
+        "original": [
+            "MJz6SHKmrC4" // Bersama Ioforia
+        ],
+        "covers": [
+            "lh5UqNxEbhs", // Happy Synthesizer (with Pochimaru)
+            "jaf_SBcDhFU", // エイリアンエイリアン
+            "Q4-h-IdOqLs" // 太陽が似合うよ
+        ]
+    },
+    "ollie": {
+        "covers": [
+            "0D-tcQjYf28" // エンヴィーベイビー (with Astel)
+        ]
+    },
+
     // EN Gen 1
     "mori": {
         "original": [
@@ -229,6 +299,18 @@ let data = {
     },
 
     // Holostars GEN 1
+    "aruran": {
+        "covers": [
+            "fSVFZGj0k_M", // ピザ パスタ ピザ のうた (with Fubuki)
+            "VAsauw-wFAg", // すてきなホリデイ (with Miyabi and Temma)
+            "NFzWCzes2SM" // め組のひと
+        ]
+    },
+    "miyabi": {
+        "covers": [
+            "VAsauw-wFAg", // すてきなホリデイ (with Aruran and Temma)
+        ]
+    },
     "rikka": {
         "covers": [
             "j84IEsVYGyE", // 白日 (with Matsuri)
@@ -236,4 +318,18 @@ let data = {
             "1KyLE_Ejf-U" // Preserved Roses (with Matsuri)
         ]
     },
+
+    // Holostars GEN 2
+    "astel": {
+        "covers": [
+            "0D-tcQjYf28" // エンヴィーベイビー (with Ollie)
+        ]
+    },
+
+    // Holostars GEN 3
+    "temma": {
+        "covers": [
+            "VAsauw-wFAg", // すてきなホリデイ (with Aruran and Miyabi)
+        ]
+    }
 }
