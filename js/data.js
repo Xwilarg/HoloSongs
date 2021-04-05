@@ -352,7 +352,7 @@ let data = {
         ],
         "covers": [
             "kMPx3AHvwtA", // お願いダーリン
-            "TT6gTs2B1Uw", // Aimer 「カタオモイ」
+            "TT6gTs2B1Uw", // カタオモイ
             "j84IEsVYGyE", // 白日 (with Rikka)
             "Z-q5aJm0UJE", // DADDY! DADDY! DO! (with Rikka)
             "JonQ09L2N0U", // ワタシノテンシ
@@ -363,7 +363,11 @@ let data = {
             "MNcnT8wBcdw", // 心做し
             "9nD7aQ_cKAM", // バレンタイン・キッス (with Marine, Pekora and Miko)
             "-wNSFmqhQsU", // フランシュシュ (with Suisei, Rushia, Noel, Flare and Marine)
-            "d71E3pHzibw" // 夏祭り (with Matsuri)
+            "d71E3pHzibw", // 夏祭り (with Matsuri)
+            "xpUQ-5dSJTk", // ファンサ
+            "0Dr_qvnXJPE", // 君の知らない物語
+            "MZm_Xy2zJq8", // ぼくの夢、メチャクソ無限湧き
+            "Pw6X2mocMRQ" // 月曜日の憂鬱
         ]
     },
     "mel": {
