@@ -331,7 +331,16 @@ let data = {
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Polka and Nene)
         ],
         "original": [
-            "z94HX5JtfA4" // 最近視線を感じます (with Watame)
+            "z94HX5JtfA4", // 最近視線を感じます (with Watame)
+            "A9HY4DsRTCg" // REDHEART
+        ],
+        "covers": [
+            "QLCcomFf8Yc", // 千本桜
+            "Z8TnOhIxN90", // ECHO
+            "mKORVdoWU2E", // Sweets parade
+            "ENSxJQ1o2ZA", // 私、アイドル宣言/赤井はあと
+            "N0vBDacTJ9k", // ぽっぴっぽー
+            "d71E3pHzibw", // 夏祭り (with Matsuri)
         ]
     },
     "matsuri": {
@@ -354,6 +363,7 @@ let data = {
             "MNcnT8wBcdw", // 心做し
             "9nD7aQ_cKAM", // バレンタイン・キッス (with Marine, Pekora and Miko)
             "-wNSFmqhQsU", // フランシュシュ (with Suisei, Rushia, Noel, Flare and Marine)
+            "d71E3pHzibw" // 夏祭り (with Matsuri)
         ]
     },
     "mel": {
