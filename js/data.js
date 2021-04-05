@@ -26,6 +26,13 @@ let names = {
     "choco": "Yuzuki Choco",
     "shion": "Murasaki Shion",
     "subaru": "Oozora Subaru",
+
+    // JP GEN 2
+    "flare": "Shiranui Flare",
+    "marine": "Houshou Marine",
+    "noel": "Shirogane Noel",
+    "pekora": "Usada Pekora",
+    "rushia": "Uruha Rushia",
 };
 
 let data = {
@@ -391,7 +398,7 @@ let data = {
         "covers": [
             "_d4MbNMoYzs", // 恋愛サーキュレーション
             "Mmlj3WUBHbc", // ビバハピ
-            "jW4q0w6CCIo", // 愛言葉
+            "jW4q0w6CCIo", // 愛言葉Ⅲ
             "KhrPiFZ4Sm8", // ディスコミュ星人
             "G9VbKTpaff0", // 気まぐれロマンティック
             "R4PEMkDb418", // バレンタイン・キッス (with Choco, Haneru Inaba and Megu Shinonome)
@@ -455,7 +462,12 @@ let data = {
             "OtpqIXEkMQA", // Mrs.Pumpkinの滑稽な夢 (with Okayu)
             "z2pWWKSPofA", // スイートマジック (with Shion)
             "ix3WUx25xII", // Crazy ∞ nighT (with Choco, Mel, Rushia and Ayame)
-            "SoSuMVviNaU" // おこちゃま戦争 (with Aqua)
+            "SoSuMVviNaU", // おこちゃま戦争 (with Aqua)
+            "5fifnky9v_I", // うっせぇわ
+            "4X-eZH87BTw", // 夜に駆ける
+            "NO66dNMwmbU", // 白日
+            "OXAkx5_A9rE", // KING
+            "5X8WDBEc_PE", // 乙女解剖
         ]
     },
     "subaru": {
@@ -470,10 +482,16 @@ let data = {
         "hololiveOriginal": [
             "x1BGG98tcrg" // 至上主義アドトラック (with Matsuri and Mio)
         ],
+        "original": [
+            "G4PT1phuM9M" // Smile & Go!!
+        ],
         "covers": [
             "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Marine, Sora and Suisei)
             "-wNSFmqhQsU", // フランシュシュ (with Pekora, Rushia, Noel, Suisei and Marine)
-            "6qESBvBUqus" // 朝までハロウィン (with Watame and Fubuki)
+            "6qESBvBUqus", // 朝までハロウィン (with Watame and Fubuki)
+            "EBj7JZiyR-s", // だから僕は音楽を辞めた
+            "3y8oIuEkqQs", // KING
+            "n8Z7mUOGEAE" // 愛言葉Ⅲ
         ]
     },
     "marine": {
@@ -485,12 +503,14 @@ let data = {
             "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Sora, Flare and Suisei)
             "9nD7aQ_cKAM", // バレンタイン・キッス (with Miko, Pekora and Matsuri)
             "-wNSFmqhQsU", // フランシュシュ (with Pekora, Rushia, Noel, Flare and Suisei)
-            "axZ9LYMvrPo" // MOON PRIDE (with Marine, Higuchi Kaede, Asano Ruri, Inui Toko)
+            "axZ9LYMvrPo", // MOON PRIDE (with Marine, Higuchi Kaede, Asano Ruri, Inui Toko)
+            "HbfVsscUMaU", // 人間が大好きなこわれた妖怪の唄
+            "zpv1HPrSS5U" // おちゃめ機能
         ]
     },
     "noel": {
         "covers": [
-            "-wNSFmqhQsU", // フランシュシュ (with Pekora, Rushia, Suisei, Flare and Marine)
+            "-wNSFmqhQsU" // フランシュシュ (with Pekora, Rushia, Suisei, Flare and Marine)
         ]
     },
     "pekora": {
@@ -507,9 +527,13 @@ let data = {
         "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Choco and Shion)
         ],
+        "original": [
+            "NtRpDpfE69Y" // アイリス。
+        ],
         "covers": [
             "-wNSFmqhQsU", // フランシュシュ (with Pekora, Suisei, Noel, Flare and Marine)
-            "ix3WUx25xII" // Crazy ∞ nighT (with Choco, Shion, Mel and Ayame)
+            "ix3WUx25xII", // Crazy ∞ nighT (with Choco, Shion, Mel and Ayame)
+            "UBSx4qqeikY", // 花に亡霊
         ]
     },
 
