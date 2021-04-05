@@ -6,7 +6,13 @@ let names = {
     "roboco": "Roboco",
 
     // INNK Music
-    "azki": "AZKi"
+    "azki": "AZKi",
+
+    // GAMERS
+    "fubuki": "Shirakami Fubuki",
+    "korone": "Inugami Korone",
+    "mio": "Ookami Mio",
+    "okayu": "Nekomata Okayu",
 };
 
 let data = {
@@ -236,9 +242,26 @@ let data = {
         "hololiveOriginal": [
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Ayame)
         ],
+        "original": [
+            "21AyxKg3-2M", // １３日の金曜日！
+            "pFgUluV_00s" // Say!ファンファーレ!
+        ],
         "covers": [
             "fSVFZGj0k_M", // ピザ パスタ ピザ のうた (with Aruran)
             "Mb2oMO-SK7w", // 嗚呼素晴らしきニャン生 (with Roboco, Takamiya Rion and Dola)
+            "V6RROopwuOg", // ビターチョコデコレーション
+            "49hhGHTKHLs", // チューリングラブ (with Oga and Shien)
+            "R_gGlLTA3VM", // StaRt
+            "NJSH0McCpwI", // もっふもっふ DE よいのじゃよ
+            "gRr4fDVpw2c", // ふゆびより
+            "ltUNmsplViI", // 鈍感彼氏
+            "Z72rgSXpUHU", // クックパッドおすすめレシピソングを歌ってみた♪
+            "V8aGtJURz88", // お願いマッスル (with Maimoto Keisuke)
+            "m1mbRCgWO90", // (with Aqua, Inuyama Tamaki and Kagura Mea)
+            // https://www.bilibili.com/video/av78978587 with Matsuri, Mononobe Alice, Ruki, Yousa, Kano, Hareru Hanamaru and Kagura Mea
+            "axZ9LYMvrPo", // MOON PRIDE (with Marine, Higuchi Kaede, Asano Ruri, Inui Toko)
+            "6qESBvBUqus", // 朝までハロウィン (with Watame and Flare)
+            "AW7HXLmSdQA", // 終端の王と異世界の騎士 〜The Endia & The Knights〜 (with Asano Ruri, Inui Toko, Kanade MiMi, Dola, Fuji Aoi and Belmond Banderas)
         ]
     },
     "korone": {
@@ -320,7 +343,8 @@ let data = {
     // JP GEN 2
     "aqua": {
         "covers": [
-            "0OtNQEpSeIA" // チューリングラブ (with Okayu)
+            "0OtNQEpSeIA", // チューリングラブ (with Okayu)
+            "m1mbRCgWO90", // (with Fubuki, Inuyama Tamaki and Kagura Mea)
         ]
     },
     "ayame": {
@@ -352,7 +376,8 @@ let data = {
         ],
         "covers": [
             "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Marine, Sora and Suisei)
-            "-wNSFmqhQsU" // フランシュシュ (with Pekora, Rushia, Noel, Suisei and Marine)
+            "-wNSFmqhQsU", // フランシュシュ (with Pekora, Rushia, Noel, Suisei and Marine)
+            "6qESBvBUqus" // 朝までハロウィン (with Watame and Fubuki)
         ]
     },
     "marine": {
@@ -363,7 +388,8 @@ let data = {
             "JYtt0inzDR4", // BLOODY STREAM
             "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Sora, Flare and Suisei)
             "9nD7aQ_cKAM", // バレンタイン・キッス (with Miko, Pekora and Matsuri)
-            "-wNSFmqhQsU" // フランシュシュ (with Pekora, Rushia, Noel, Flare and Suisei)
+            "-wNSFmqhQsU", // フランシュシュ (with Pekora, Rushia, Noel, Flare and Suisei)
+            "axZ9LYMvrPo" // MOON PRIDE (with Marine, Higuchi Kaede, Asano Ruri, Inui Toko)
         ]
     },
     "noel": {
@@ -428,7 +454,8 @@ let data = {
             "OR1Epbc_NNE", // KING
             "i6woCvMq5Xg", // メランコリック
             "TyILqS4nF3M", // chocolate box (with Kanata)
-            "6rPdZ7EW98I" // 黒い羊 (with AZKi)
+            "6rPdZ7EW98I", // 黒い羊 (with AZKi)
+            "6qESBvBUqus" // 朝までハロウィン (with Fubuki and Flare)
         ]
     },
 
@@ -536,11 +563,21 @@ let data = {
             "0D-tcQjYf28" // エンヴィーベイビー (with Ollie)
         ]
     },
-
-    // Holostars GEN 3
     "temma": {
         "covers": [
             "VAsauw-wFAg", // すてきなホリデイ (with Aruran and Miyabi)
+        ]
+    },
+
+    // Holostars GEN 3
+    "shien": {
+        "covers": [
+            "49hhGHTKHLs", // チューリングラブ (with Oga and Fubuki)
+        ]
+    },
+    "oga": {
+        "covers": [
+            "49hhGHTKHLs", // チューリングラブ (with Fubuki and Shien)
         ]
     }
 }
