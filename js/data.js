@@ -374,13 +374,24 @@ let data = {
             "kUxl0rkmD08", // しんでしまうとはなさけない！歌ってみた (with Ayame)
             "ufZmpbMAotI", // カブトムシ (with Rikka)
             "-wV0AH0u8ik", // 楓 / スピッツ (with Rikka)
-            "VbLsb2t1qzI", // チューリングラブ (with Rikka)
+            "VbLsb2t1qzI" // チューリングラブ (with Rikka)
         ]
     },
     "mel": {
         "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Shion, Choco and Rushia)
         ],
+        "covers": [
+            "_d4MbNMoYzs", // 恋愛サーキュレーション
+            "Mmlj3WUBHbc", // ビバハピ
+            "jW4q0w6CCIo", // 愛言葉
+            "KhrPiFZ4Sm8", // ディスコミュ星人
+            "G9VbKTpaff0", // 気まぐれロマンティック
+            "R4PEMkDb418", // バレンタイン・キッス (with Choco, Haneru Inaba and Megu Shinonome)
+            "ix3WUx25xII", // Crazy ∞ nighT (with Choco, Shion, Rushia and Ayame)
+            "x-g0SeUJxsI", // Gimme chocolate!! (with Choco and Shinonome Megu)
+            "GegRa9yZUb4" // スイートマジック (with Choco)
+        ]
     },
 
     // JP GEN 2
@@ -396,11 +407,18 @@ let data = {
         ],
         "covers": [
             "kUxl0rkmD08", // しんでしまうとはなさけない！歌ってみた (with Matsuri)
+            "ix3WUx25xII" // Crazy ∞ nighT (with Choco, Shion, Rushia and Mel)
         ]
     },
     "choco": {
         "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Shion and Rushia)
+        ],
+        "covers": [
+            "R4PEMkDb418", // バレンタイン・キッス (with Mel, Haneru Inaba and Megu Shinonome)
+            "ix3WUx25xII", // Crazy ∞ nighT (with Mel, Shion, Rushia and Ayame)
+            "x-g0SeUJxsI", // Gimme chocolate!! (with Mel and Shinonome Megu)
+            "GegRa9yZUb4" // スイートマジック (with Mel)
         ]
     },
     "shion": {
@@ -410,7 +428,8 @@ let data = {
         "covers": [
             "hTBJMFkchqk", // スキキライ (with Okayu)
             "OtpqIXEkMQA", // Mrs.Pumpkinの滑稽な夢 (with Okayu)
-            "z2pWWKSPofA" // スイートマジック (with Shion)
+            "z2pWWKSPofA", // スイートマジック (with Shion)
+            "ix3WUx25xII" // Crazy ∞ nighT (with Choco, Mel, Rushia and Ayame)
         ]
     },
     "subaru": {
@@ -464,6 +483,7 @@ let data = {
         ],
         "covers": [
             "-wNSFmqhQsU", // フランシュシュ (with Pekora, Suisei, Noel, Flare and Marine)
+            "ix3WUx25xII" // Crazy ∞ nighT (with Choco, Shion, Mel and Ayame)
         ]
     },
 
