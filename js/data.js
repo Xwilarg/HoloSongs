@@ -13,6 +13,12 @@ let names = {
     "korone": "Inugami Korone",
     "mio": "Ookami Mio",
     "okayu": "Nekomata Okayu",
+
+    // JP GEN 0
+    "aki": "Aki Rosental",
+    "haato": "Akai Haato",
+    "matsuri": "Natsuiro Matsuri",
+    "mel": "Yozora Mel",
 };
 
 let data = {
@@ -306,8 +312,18 @@ let data = {
 
     // JP GEN 1
     "aki": {
+        "original": [
+            "Ii7rtNaGlls", // シャルイース
+            "eN--w_NA6hs", // ヒロインオーディション
+            "8fqjcg2uRYs", // Nekoze Punch!!
+            "8c7ZHCnQKDQ", // Chocolate Pandemic
+            "TWwcyRb-1AI" // 輪廻るセカイと罪ノ果実/歌
+        ],
         "covers": [
-            "ue7mFSgBAH0" // Crazy Party Night (with Roboco and Luna)
+            "ue7mFSgBAH0", // Crazy Party Night (with Roboco and Luna)
+            "BmHBJg7_4jE", // 三月のパンタシア-コラージュ
+            "IN0KT2ABM10", // I believe -海の底から-
+            "3y5-Fl2ExIA" // 聖少女領域
         ]
     },
     "haato": {
