@@ -143,10 +143,81 @@ let data = {
 
     // INNK Music
     "azki": {
+        "original": [
+            "ZkvtKUQp3nM", // Creating world
+            "ad-6W3bazMs", // リアルメランコリー
+            "JZTVchX8qJs", // Felicia
+            "tum7dljV2ts", // I can't control myself
+            "SKy71bCcOyg", // ひかりのまち
+            "5QJfWQrdQEY", // Starry Regrets
+            "lGXgYHlR8ww", // Fake.Fake.Fake
+            "-VQx0MtsvSQ", // いのち
+            "VriDV2NqXpg", // シットデイズ
+            "bMSPwitZiJs", // さよならヒーロー
+            "ZezL7jHGKCA", // ハートビート
+            "vW_lJwhw24c", // from A to Z
+            "bjLzXSM4yRY", // ERROR
+            "re2rwAWZGjg", // 嘘嘘嘘嘘
+            "EAQASQOWCX8", // 世界は巡り、やがて君のものになる
+            "D_CJMc8flY8", // フロンティアローカス
+            "M0-MFPxMrqE", // ちいさな心が決めたこと
+            "ofdfaM11NIw", // without U
+            "oGMzDHvrsq0", // Midnight Song
+            "HJ6zQ3oQMCQ", // 自己アレルギー
+            "7W2oVgMpmzs", // のんびりと、
+            "9ct9lb2zgZ4", // Reflection
+            "8zbO3ftH3ls", // 虹を駆け抜けて
+            "TiY6dP4djQA", // コトノハ
+            "P2yeYNI1H2M", // 黒鉄の守り人
+            "aqRIPFT-EUw", // Creating world
+            "zcc_O2UtZBI", // Eternity Bright
+            "yT2h4nrfMME", // 光
+            "TnQgSAaGhVc", // 猫ならばいける
+            "fad_0eQIlVo", // Intersection
+            "wzygAKsIqk0", // Take me to Heaven
+            "Ro-7kxRHCdg", // 青い夢
+            "wHMZW_VkBjo", // in this world
+            "6Ks5SWfk-eI", // 発光体ソーラーサイクル
+            "j2z06YUbulk", // 止まない雨
+            "dlqAF0aq7XU", // ローテート・リピーテッド
+            "u_mKbmoK2dM", // petal dance
+            "G-QUjj0GGlo", // 運命の在処
+        ],
         "covers": [
             "YcfZziSg0cg", // 三つ葉の結びめ (with Kanata)
             "h7NE6BoTCIA", // 暁の車 歌ってみた (with Sora)
-            "WKmzvtEv9Wc" // 東京サマーセッション (with Sora)
+            "WKmzvtEv9Wc", // 東京サマーセッション (with Sora)
+            "lxJ7SXMEPto", // My Dearest
+            "7o_YL35T93w", // オレンジ
+            "O4Oz8Gn6oDY", // only my railgun
+            "B5MvnVOfaBc", // 人間だった
+            "f5zAFvFKPEI", // agony
+            "6rPdZ7EW98I", // 黒い羊 (with Watame)
+            "OC-VqdP1Kow", // スーパーヒーロー
+            "Gni3co__EPI", // 秒針を噛む
+            "Xn2hOjDOZ0g", // Q
+            "MIlI_NeWuyo", // Don't say lazy (with Osanazu)
+            "y39DMzOqsRw", // HOT LIMIT
+            "VAvd842cCYM", // Sweet Devil
+            "56OgSRwV-xw", // ウィアートル
+            "qokrSyGZTiM", // セブンティーナ
+            "bUNMyoks3BQ", // Gimme × Gimme
+            "SdgFVX0FsgE", // Just Be Friends
+            "f8F8yNVDUEo", // イヤイヤちゃんのうた
+            "JHiWqdrWOSQ", // miracle step
+            "aQ6Hir0wlVg", // 二息歩行
+            "UnM2_ddXNYk", // たばこ
+            "_JoXN6LdcDY", // ただ君に晴れ
+            "jKJ5a7gVkH8", // 心臓と絡繰
+            "3NgN2CvLgT4", // ハートサーモグラフィー
+            "hwkAWFw8njM", // 名も無き囚人
+            "mSVb61pOQKA", // 泡沫夢幻
+            "G54GXyYwGz0", // あさがおの詩
+            "vC-MsZVgx80", // 命に嫌われている。
+            "JuM6WQhdl8A", // シャイニングスター
+            "MRfcZ4teUeE", // ヒロイン育成計画
+            "daAc1qj5DDY", // 乙女解剖
+            "rHbTBYxK0O0", // いつもココニイル
         ]
     },
 
@@ -346,7 +417,8 @@ let data = {
             "L7MvA9i7byQ", // 恋愛サーキュレーション
             "OR1Epbc_NNE", // KING
             "i6woCvMq5Xg", // メランコリック
-            "TyILqS4nF3M" // chocolate box (with Kanata)
+            "TyILqS4nF3M", // chocolate box (with Kanata)
+            "6rPdZ7EW98I" // 黒い羊 (with AZKi)
         ]
     },
 
