@@ -16,7 +16,7 @@ function toggle(id,name) {
 function getVideoHtml(e, name, className) {
     return `
         <div>
-            <img id="img_` + e + `_` + name + `" src="http://img.youtube.com/vi/` + e + `/mqdefault.jpg" onclick="toggle('` + e + `', '` + name + `')"/>
+            <img id="img_` + e + `_` + name + `" data-src="http://img.youtube.com/vi/` + e + `/mqdefault.jpg" onclick="toggle('` + e + `', '` + name + `')" class="lazyload"/>
             <iframe id="iframe_` + e + `_` + name + `" class="hidden"></iframe>
         </div>
     `;
