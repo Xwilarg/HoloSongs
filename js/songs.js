@@ -33,8 +33,8 @@ function search(name) {
     document.getElementById("gridSearch").classList.add("hidden");
     let d = data[name];
     let str = "<div id='songs'>";
-    if (d.hololive !== undefined) {
-        d.hololive.forEach(e => {
+    if (d.hololiveOriginal !== undefined) {
+        d.hololiveOriginal.forEach(e => {
             str += getVideoHtml(e);
         });
     }
@@ -59,8 +59,8 @@ window.onload = function() {
     for (var key in data) {
         str += "<h2>" + getName(key) + "</h2><div id='songs'>";
         let d = data[key];
-        if (d.hololive !== undefined) {
-            d.hololive.forEach(e => {
+        if (d.hololiveOriginal !== undefined) {
+            d.hololiveOriginal.forEach(e => {
                 str += getVideoHtml(e, key);
             });
         }
