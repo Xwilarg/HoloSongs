@@ -14,11 +14,18 @@ let names = {
     "mio": "Ookami Mio",
     "okayu": "Nekomata Okayu",
 
-    // JP GEN 0
+    // JP GEN 1
     "aki": "Aki Rosental",
     "haato": "Akai Haato",
     "matsuri": "Natsuiro Matsuri",
     "mel": "Yozora Mel",
+
+    // JP GEN 2
+    "aqua": "Minato Aqua",
+    "ayame": "Nakiri Ayame",
+    "choco": "Yuzuki Choco",
+    "shion": "Murasaki Shion",
+    "subaru": "Oozora Subaru",
 };
 
 let data = {
@@ -396,9 +403,24 @@ let data = {
 
     // JP GEN 2
     "aqua": {
+        "original": [
+            "6bnaBnd4kyU", // #あくあ色ぱれっと​
+            "CZGFm-O5IOU" // For The Win
+        ],
         "covers": [
             "0OtNQEpSeIA", // チューリングラブ (with Okayu)
             "m1mbRCgWO90", // (with Fubuki, Inuyama Tamaki and Kagura Mea)
+            "O8v5S1nhKzo", // ダダダダ天使
+            "-aB6MQU8l1s", // インドア系ならトラックメイカー
+            "UXUn_ZqeM4Q", // ワンルームシュガーライフ
+            "SoSuMVviNaU", // おこちゃま戦争 (with Shion)
+            "0fTmEfBvp50", // Ubiquitous dB
+            // https://www.bilibili.com/video/BV1c741157sp
+            // https://www.bilibili.com/video/BV1mz411b7Yn
+            // https://www.bilibili.com/video/BV1vT4y1F7oo
+            "KdsFfcBknxM", // お願いマッスル (with Inuyama Tamaki)
+            "yS2rcvR6tFI", // クノイチでも恋がしたい (with Kagura Mea)
+            "rZURT15BljE", // おおかみは赤ずきんに恋をした (with Kagura Mea)
         ]
     },
     "ayame": {
@@ -429,7 +451,8 @@ let data = {
             "hTBJMFkchqk", // スキキライ (with Okayu)
             "OtpqIXEkMQA", // Mrs.Pumpkinの滑稽な夢 (with Okayu)
             "z2pWWKSPofA", // スイートマジック (with Shion)
-            "ix3WUx25xII" // Crazy ∞ nighT (with Choco, Mel, Rushia and Ayame)
+            "ix3WUx25xII", // Crazy ∞ nighT (with Choco, Mel, Rushia and Ayame)
+            "SoSuMVviNaU" // おこちゃま戦争 (with Aqua)
         ]
     },
     "subaru": {
