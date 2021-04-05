@@ -57,6 +57,29 @@ let names = {
     "anya": "Anya Melfissa",
     "ollie": "Kureiji Ollie",
     "reine": "Pavolia Reine",
+
+    // EN GEN 1
+    "amelia": "Watson Amelia",
+    "gura": "Gawr Gura",
+    "ina": "Ninomae Ina'nis",
+    "kiara": "Takanashi Kiara",
+    "mori": "Mori Calliope",
+
+    // Holostars GEN 1
+    "aruran": "Arurandeisu",
+    "izuru": "Kanade Izuru",
+    "kira": "Kagami Kira",
+    "miyabi": "Hanasaki Miyabi",
+    "rikka": "Rikka",
+
+    // Holostars GEN 2
+    "astel": "Astel Leda",
+    "temma": "Kishido Temma",
+    "roberu": "Yukoku Roberu",
+
+    // Holostars GEN 3
+    "oga": "Aragami Oga",
+    "shien": "Kageyama Shien"
 };
 
 let data = {
@@ -711,6 +734,22 @@ let data = {
     },
 
     // EN Gen 1
+    "amelia": { },
+    "gura": {
+        "covers": [
+            "2ys9IS5r9yA", // 空色デイズ (with Matsuri)
+        ]
+    },
+    "ina": { },
+    "kiara": {
+        "original": [
+            "eDfMDkgheQY", // HINOTORI
+            "KpSLiHAYe7k" // Heart Challenger
+        ],
+        "covers": [
+            "pXD4BbYludc" // ワーワーワールド (with Mori)
+        ]
+    },
     "mori": {
         "original": [
             "_M-6lkoi6L4", // Off With Their Heads
@@ -721,19 +760,10 @@ let data = {
             "DGun2cWbPEM", // 曇天羊 (with Watame)
             "VNU2BDdgPZ8", // Ibasho
             "vz7JIBvAFqM", // ReaperかRapper?
+            "-AuQZrUHjhg" // Red
         ],
         "covers": [
-            "pXD4BbYludc" // ワーワーワールド
-        ]
-    },
-    "gura": {
-        "covers": [
-            "2ys9IS5r9yA", // 空色デイズ (with Matsuri)
-        ]
-    },
-    "kiara": {
-        "covers": [
-            "pXD4BbYludc" // ワーワーワールド
+            "pXD4BbYludc" // ワーワーワールド (with Kiara)
         ]
     },
 
@@ -742,15 +772,63 @@ let data = {
         "covers": [
             "fSVFZGj0k_M", // ピザ パスタ ピザ のうた (with Fubuki)
             "VAsauw-wFAg", // すてきなホリデイ (with Miyabi and Temma)
-            "NFzWCzes2SM" // め組のひと
+            "NFzWCzes2SM", // め組のひと
+            "VXTZN-06nzo", // Blessing (with Izuru, Kira, Miyabi, Rikka, Astel, Temma and Roberu)
+            "4wqpyWJOJ6M" // Paintër (with Izuru, Miyabi, Rikka, Astel, Temma, Roberu, Shien and Oga)
+        ]
+    },
+    "izuru": {
+        "covers": [
+            "VXTZN-06nzo", // Blessing (with Aruran, Kira, Miyabi, Rikka, Astel, Temma and Roberu)
+            "4wqpyWJOJ6M", // Paintër (with Aruran, Miyabi, Rikka, Astel, Temma, Roberu, Shien and Oga)
+            "P1GH-04ebzo", // 愛して愛して愛して
+            "X_zmIdP3jbg", // unravel
+            "Q978b1YXHtI", // ドラマツルギー
+            "FUxsxV-Ml0o", // ベノム
+            "GVp0yH6EEZE", // YELLOW (with Kohaku Yuiga)
+            "jwvJ6GBf4Ro", // 猫猫的宇宙論
+            "1rgkCnKggTc", // 帝国少女
+            "oPahzleK0Nk", // それがあなたの幸せとしても
+            "-Kvn8qpMUdQ", // 虹を待つ人
+            "OjpmQywejQM", // 太陽系デスコ (with Rikka)
+            "rkEHHJ0RTrE", // 威風堂々 (with Rikka)
+            "OsUybM5cJUc", // テレキャスタービーボーイ
+            "d1nkcGgi0S8", // 第六感
+            "BJg38acB6ro", // Happy Halloween (with Rikka)
+            "TLDjnbjIVYg", // ロメオ (with Rikka)
+            "J4XhPRdrE4g", // あの娘シークレット (with Yuiga Kohaku)
+            "B0xrie_yK-Y", // 神のまにまに (with Astel)
+            "DdjHAqUGPCI", // 桜ノ雨 (with Rikka)
+            "cmT3Z2TQkEU", // ユニバース (with Miyabi)
+            "m_a4CcA_oi4", // Fire◎Flower (with Rikka, Astel and Shien)
+            "IxT1xa3YGio", // クリスマスソング (with Rikka)
+            "Zh0gAsXbSC4" // スイートマジック (with Izuru)
+        ]
+    },
+    "kira": {
+        "covers": [
+            "VXTZN-06nzo" // Blessing (with Aruran, Izuru, Miyabi, Rikka, Astel, Temma and Roberu)
         ]
     },
     "miyabi": {
         "covers": [
             "VAsauw-wFAg", // すてきなホリデイ (with Aruran and Temma)
+            "VXTZN-06nzo", // Blessing (with Aruran, Kira, Izuru, Rikka, Astel, Temma and Roberu)
+            "4wqpyWJOJ6M", // Paintër (with Izuru, Aruran, Rikka, Astel, Temma, Roberu, Shien and Oga)
+            "cmT3Z2TQkEU", // ユニバース (with Izuru)
+            "STBJ_N3YLiw", // おじゃま虫
+            "5PCJnfiNuL4", // ドレミファロンド
+            "PinEZtXpYYQ", // Happy Halloween (with Temma)
+            "a67XEIAJopM", // 私、アイドル宣言
+            "6f-hghYUosk", // 可愛くなりたい (with Temma)
+            "hwW6vuWdzCM", // Shibuya Marble Texture-PCCS- (with Rikka and Shien)
+            "Zx_0tXVn1h0" // ロメオ (with Temma)
         ]
     },
     "rikka": {
+        "original": [
+            "NK6Elz5MrqQ" // Re:Hello world
+        ],
         "covers": [
             "j84IEsVYGyE", // 白日 (with Matsuri)
             "Z-q5aJm0UJE", // DADDY! DADDY! DO! (with Matsuri)
@@ -758,19 +836,60 @@ let data = {
             "TSZ9RlU6EXk", // 点描の唄 (with Roboco)
             "ufZmpbMAotI", // カブトムシ (with Matsuri)
             "-wV0AH0u8ik", // 楓 / スピッツ (with Matsuri)
-            "VbLsb2t1qzI" // チューリングラブ (with Matsuri)
+            "VbLsb2t1qzI", // チューリングラブ (with Matsuri)
+            "VXTZN-06nzo", // Blessing (with Aruran, Kira, Miyabi, Izuru, Astel, Temma and Roberu)
+            "4wqpyWJOJ6M", // Paintër (with Izuru, Miyabi, Aruran, Astel, Temma, Roberu, Shien and Oga)
+            "OjpmQywejQM", // 太陽系デスコ (with Izuru)
+            "rkEHHJ0RTrE", // 威風堂々 (with Izuru)
+            "BJg38acB6ro", // Happy Halloween (with Izuru)
+            "TLDjnbjIVYg", // ロメオ (with Izuru)
+            "DdjHAqUGPCI", // 桜ノ雨 (with Izuru)
+            "m_a4CcA_oi4", // Fire◎Flower (with Izuru, Astel and Shien)
+            "IxT1xa3YGio", // クリスマスソング (with Izuru)
+            "hwW6vuWdzCM", // Shibuya Marble Texture-PCCS- (with Miyabi and Shien)
+            "hlHeOOpgZLY", // だから僕は音楽を辞めた
+            "BS_b8USqdd4", // 傘
+            "hbQFCDKXulg", // シャルル
+            "ku0p-YmmpwE", // 乙女解剖
+            "IpEltC_uC94", // 秒針を噛む
+            "PeuIvDUBCw8", // ライラック
+            "9XYweRCPbA8", // 弾き語り 香水
+            "OzXPlX9KgJk", // ブリキノダンス
+            "Jq4cvbPt3Gk", // sailing day
+            "A8udlo9FfPY", // アンコール
+            "yYTQXck8jr8", // インフェルノ
+            "oGi8J41AHhg", // I LOVE...
+            "gL5upTOexWk", // The Beginning (with Hoshino Mea)
+            "oUNbANUihwc", // あなたがいることで (with Harano Oni)
+            ""
         ]
     },
 
     // Holostars GEN 2
     "astel": {
         "covers": [
-            "0D-tcQjYf28" // エンヴィーベイビー (with Ollie)
+            "0D-tcQjYf28", // エンヴィーベイビー (with Ollie)
+            "VXTZN-06nzo", // Blessing (with Aruran, Kira, Miyabi, Rikka, Izuru, Temma and Roberu)
+            "4wqpyWJOJ6M", // Paintër (with Izuru, Miyabi, Rikka, Aruran, Temma, Roberu, Shien and Oga)
+            "B0xrie_yK-Y", // 神のまにまに (with Izuru)
+            "m_a4CcA_oi4", // Fire◎Flower (with Rikka, Izuru and Shien)
+            "Zh0gAsXbSC4", // スイートマジック (with Izuru)
         ]
     },
     "temma": {
         "covers": [
             "VAsauw-wFAg", // すてきなホリデイ (with Aruran and Miyabi)
+            "VXTZN-06nzo", // Blessing (with Aruran, Kira, Miyabi, Rikka, Astel, Izuru and Roberu)
+            "4wqpyWJOJ6M", // Paintër (with Izuru, Miyabi, Rikka, Astel, Aruran, Roberu, Shien and Oga)
+            "PinEZtXpYYQ", // Happy Halloween (with Miyabi)
+            "6f-hghYUosk", // 可愛くなりたい (with Miyabi)
+            "Zx_0tXVn1h0", // ロメオ (with Miyabi)
+        ]
+    },
+    "roberu": {
+        "covers": [
+            "VXTZN-06nzo", // Blessing (with Aruran, Kira, Izuru, Rikka, Astel, Temma and Izuru)
+            "4wqpyWJOJ6M" // Paintër (with Izuru, Miyabi, Rikka, Astel, Temma, Aruran, Shien and Oga)
         ]
     },
 
@@ -778,6 +897,9 @@ let data = {
     "shien": {
         "covers": [
             "49hhGHTKHLs", // チューリングラブ (with Oga and Fubuki)
+            "4wqpyWJOJ6M", // Paintër (with Izuru, Miyabi, Rikka, Astel, Temma, Roberu, Aruran and Oga)
+            "m_a4CcA_oi4", // Fire◎Flower (with Rikka, Astel and Izuru)
+            "hwW6vuWdzCM", // Shibuya Marble Texture-PCCS- (with Rikka and Miyabi)
         ]
     },
     "oga": {
@@ -785,6 +907,7 @@ let data = {
             "49hhGHTKHLs", // チューリングラブ (with Fubuki and Shien)
             "0YX80lIi36w", // DADDY ! DADDY ! DO ! (with Risu)
             "cos54QJsb7o", // DADDY ! DADDY ! DO ! (with Risu)
+            "4wqpyWJOJ6M" // Paintër (with Izuru, Miyabi, Rikka, Astel, Temma, Roberu, Shien and Aruran)
         ]
     }
 }
