@@ -860,8 +860,7 @@ let data = {
             "yYTQXck8jr8", // インフェルノ
             "oGi8J41AHhg", // I LOVE...
             "gL5upTOexWk", // The Beginning (with Hoshino Mea)
-            "oUNbANUihwc", // あなたがいることで (with Harano Oni)
-            ""
+            "oUNbANUihwc" // あなたがいることで (with Harano Oni)
         ]
     },
 
@@ -874,6 +873,8 @@ let data = {
             "B0xrie_yK-Y", // 神のまにまに (with Izuru)
             "m_a4CcA_oi4", // Fire◎Flower (with Rikka, Izuru and Shien)
             "Zh0gAsXbSC4", // スイートマジック (with Izuru)
+            "nRCytQ4gtOg", // One more time,One more chance
+            "VI1ZWkQadTc" // あゝオオサカdreamin'night (with Temma and Roberu)
         ]
     },
     "temma": {
@@ -884,12 +885,17 @@ let data = {
             "PinEZtXpYYQ", // Happy Halloween (with Miyabi)
             "6f-hghYUosk", // 可愛くなりたい (with Miyabi)
             "Zx_0tXVn1h0", // ロメオ (with Miyabi)
+            "VI1ZWkQadTc", // あゝオオサカdreamin'night (with Astel and Roberu)
+            "59NCxc_iXGE", // ヒロイン育成計画
+            "M7bRLFkcdiE" // 君に届け
         ]
     },
     "roberu": {
         "covers": [
             "VXTZN-06nzo", // Blessing (with Aruran, Kira, Izuru, Rikka, Astel, Temma and Izuru)
-            "4wqpyWJOJ6M" // Paintër (with Izuru, Miyabi, Rikka, Astel, Temma, Aruran, Shien and Oga)
+            "4wqpyWJOJ6M", // Paintër (with Izuru, Miyabi, Rikka, Astel, Temma, Aruran, Shien and Oga)
+            "VI1ZWkQadTc", // あゝオオサカdreamin'night (with Temma and Astel)
+            "tJ9Uq8z_pug" // チキンライス
         ]
     },
 
@@ -900,6 +906,8 @@ let data = {
             "4wqpyWJOJ6M", // Paintër (with Izuru, Miyabi, Rikka, Astel, Temma, Roberu, Aruran and Oga)
             "m_a4CcA_oi4", // Fire◎Flower (with Rikka, Astel and Izuru)
             "hwW6vuWdzCM", // Shibuya Marble Texture-PCCS- (with Rikka and Miyabi)
+            "1UId-1TnC4U", // KING
+            "Rp0T8paPtkQ" // ジャンキーナイトタウンオーケストラ
         ]
     },
     "oga": {
