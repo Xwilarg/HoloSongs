@@ -1,8 +1,12 @@
 let names = {
+    // JP GEN 0
     "miko": "Sakura Miko",
     "sora": "Tokino Sora",
     "suisei": "Hoshimachi Suisei",
-    "roboco": "Roboco"
+    "roboco": "Roboco",
+
+    // INNK Music
+    "azki": "AZKi"
 };
 
 let data = {
@@ -12,7 +16,8 @@ let data = {
             "uRB1G0cKpIk", // ぺこみこ大戦争！！
             "Y8o4goeVM0o", // マイネームイズエリート☆
             "X9zw0QF12Kc", // サクラカゼ
-            "HiLnCY9qjSo" // さくら色ハイテンション！
+            "HiLnCY9qjSo", // さくら色ハイテンション！
+            "ITPpK7GXoEc" // マイオドレ！舞舞タイム (with Sora) (collab maimai)
         ],
         "covers": [
             "z4Md4zHQWJ8", // ユキトキ 歌ってみた
@@ -73,7 +78,9 @@ let data = {
             "APQZKmC11mc", // 青空のシンフォニー
             "A4rwGGrBVrg", // ぐるぐる・ラブストーリー
             "OG6yRuj3KkY", // Step and Go!!
-            "0XW7d83XI_s" // ブルーベリームーン
+            "0XW7d83XI_s", // ブルーベリームーン
+            "tiTnyZ5QLao", // 刹那ティックコード (with AZKi)
+            "ITPpK7GXoEc" // マイオドレ！舞舞タイム (with Miko) (collab maimai)
         ],
         "covers": [
             "ljIov4qdYic", // 彗星ハネムーン
@@ -105,7 +112,8 @@ let data = {
             "h7NE6BoTCIA", // 暁の車 歌ってみた (with AZKi)
             "7w3jBGX7UcY", // おジャ魔女カーニバル!! (with Tenjin Kotone)
             "5yDNEmcKQFY", // 餞の鳥 (with Suisei)
-            "WKmzvtEv9Wc" // 東京サマーセッション (with AZKi)
+            "WKmzvtEv9Wc", // 東京サマーセッション (with AZKi)
+            "akFLlRmmIpw" // 紅藍クロニクル (with AZKi)
         ]
     },
     "suisei": {
@@ -182,6 +190,8 @@ let data = {
             "dlqAF0aq7XU", // ローテート・リピーテッド
             "u_mKbmoK2dM", // petal dance
             "G-QUjj0GGlo", // 運命の在処
+            "tiTnyZ5QLao", // 刹那ティックコード (with Sora)
+            "akFLlRmmIpw" // 紅藍クロニクル (with Sora)
         ],
         "covers": [
             "YcfZziSg0cg", // 三つ葉の結びめ (with Kanata)
