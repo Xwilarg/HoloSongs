@@ -23,6 +23,40 @@ let data = {
             "9nD7aQ_cKAM" // バレンタイン・キッス (with Marine, Pekora and Matsuri)
         ]
     },
+    "roboco": {
+        "original": [
+            "Wmd1lt4uO_I", // ロボ子さんで音
+            "ETckHHfH7EI", // 社畜の歌
+            "UXuMSLOUhgs", // FICTION
+            "7h7NuUAd7yg" // アザミナ
+        ],
+        "covers": [
+            "K7FqZJS-ZwA", // リモコン (with Sora)
+            "yIvcKk4vZ7Y", // 君色に染まる (with Mio and Miko)
+            "c25iBKPN6w4", // ボッカデラベリタ
+            "fY1CQ5kSRxY", // KING
+            "uc7I72C1giU", // バーモント・キッス
+            "TSZ9RlU6EXk", // 点描の唄 (with Rikka)
+            "e_EqIA6ZWqs", // あっかんべーだ
+            "ZshLem1OV7k", // 曼珠沙華
+            "RJwpJIe5FmY", // おねがいダーリン
+            "h6pIQx8CKOM", // ベイビー・アイラブユー
+            "qge-EvTOzsk", // 一心不乱 (with Kaede Higuchi)
+            "_cUTVL2Nj6o", // PLATONIC GIRL (with Kaede Higuchi)
+            "48DgT4-JYZA", // 少年と魔法のロボット
+            "Klsca1OcwH8", // メルティランドナイトメア
+            "Wo0LOk4R5Oc", // BOYS & GIRLS 3.0
+            "_txtx7llu50", // HAPPY BIRTHDAY
+            "HBV2WaULwEw", // 月曜日の憂鬱
+            "r3jigPQEz70", // Next Wednesday
+            "dWOdLydhO-E", // 鬼KYOKAN (with Higuchi Kaede)
+            "v6u80eYSLvc", // Happy Halloween (with Higuchi Kaede)
+            "Mb2oMO-SK7w", // 嗚呼素晴らしきニャン生 (with Fubuki, Takamiya Rion and Dola)
+            "G6AcztMMGdI", // ラブレター (with Kagura Nana)
+            "rz_MrXeJ4bc", // KILLER B (with Rindou Mikoto, Takamiya Rion, Suou Patra, Ouga Saki, Shishigami Leona and Shinonome Megu)
+            "ue7mFSgBAH0" // Crazy Party Night (with Aki and Luna)
+        ]
+    },
     "sora": {
         "original": [
             "BvlCYJ1XZ3Y", // 木の芽時の空
@@ -81,14 +115,8 @@ let data = {
             "5yDNEmcKQFY" // 餞の鳥 (with Sora)
         ]
     },
-    "roboco": {
-        "covers": [
-            "K7FqZJS-ZwA", // リモコン (with Sora)
-            "yIvcKk4vZ7Y" // 君色に染まる (with Mio and Miko)
-        ]
-    },
 
-    // AZKi
+    // INNK Music
     "azki": {
         "covers": [
             "YcfZziSg0cg", // 三つ葉の結びめ (with Kanata)
@@ -103,7 +131,8 @@ let data = {
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Ayame)
         ],
         "covers": [
-            "fSVFZGj0k_M" // ピザ パスタ ピザ のうた (with Aruran)
+            "fSVFZGj0k_M", // ピザ パスタ ピザ のうた (with Aruran)
+            "Mb2oMO-SK7w", // 嗚呼素晴らしきニャン生 (with Roboco, Takamiya Rion and Dola)
         ]
     },
     "korone": {
@@ -141,6 +170,11 @@ let data = {
     },
 
     // JP GEN 1
+    "aki": {
+        "covers": [
+            "ue7mFSgBAH0" // Crazy Party Night (with Roboco and Luna)
+        ]
+    },
     "haato": {
         "hololiveOriginal": [
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Polka and Nene)
@@ -253,6 +287,11 @@ let data = {
             "YcfZziSg0cg", // 三つ葉の結びめ (with AZKi)
             "TyILqS4nF3M", // chocolate box (with Watame)
             "Ur0K2WA67jw" // Alice in N.Y. (with Sora, Marine, Flare and Suisei)
+        ]
+    },
+    "luna": {
+        "covers": [
+            "ue7mFSgBAH0" // Crazy Party Night (with Aki and Roboco)
         ]
     },
     "watame": {
@@ -368,7 +407,8 @@ let data = {
         "covers": [
             "j84IEsVYGyE", // 白日 (with Matsuri)
             "Z-q5aJm0UJE", // DADDY! DADDY! DO! (with Matsuri)
-            "1KyLE_Ejf-U" // Preserved Roses (with Matsuri)
+            "1KyLE_Ejf-U", // Preserved Roses (with Matsuri)
+            "TSZ9RlU6EXk", // 点描の唄 (with Roboco)
         ]
     },
 
