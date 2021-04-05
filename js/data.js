@@ -429,7 +429,8 @@ let data = {
         ],
         "covers": [
             "kUxl0rkmD08", // しんでしまうとはなさけない！歌ってみた (with Matsuri)
-            "ix3WUx25xII" // Crazy ∞ nighT (with Choco, Shion, Rushia and Mel)
+            "ix3WUx25xII", // Crazy ∞ nighT (with Choco, Shion, Rushia and Mel)
+            "s3R9c8LQWMk" // 気まぐれメルシィ (with Kagura Nana)
         ]
     },
     "choco": {
@@ -440,7 +441,9 @@ let data = {
             "R4PEMkDb418", // バレンタイン・キッス (with Mel, Haneru Inaba and Megu Shinonome)
             "ix3WUx25xII", // Crazy ∞ nighT (with Mel, Shion, Rushia and Ayame)
             "x-g0SeUJxsI", // Gimme chocolate!! (with Mel and Shinonome Megu)
-            "GegRa9yZUb4" // スイートマジック (with Mel)
+            "GegRa9yZUb4", // スイートマジック (with Mel)
+            "n9DqvVNBdVI", // 妄想税
+            "vmPpfJWxisU", // 〇〇〇〇〇
         ]
     },
     "shion": {
