@@ -9,7 +9,18 @@ let data = {
     // JP GEN 0
     "miko": {
         "original": [
-            "uRB1G0cKpIk" // ぺこみこ大戦争！！
+            "uRB1G0cKpIk", // ぺこみこ大戦争！！
+            "Y8o4goeVM0o", // マイネームイズエリート☆
+            "X9zw0QF12Kc", // サクラカゼ
+            "HiLnCY9qjSo" // さくら色ハイテンション！
+        ],
+        "covers": [
+            "z4Md4zHQWJ8", // ユキトキ 歌ってみた
+            "IZWuK1ljlS0", // 愛言葉Ⅲ
+            "VeWlafLgrMs", // 夢路らびりんす
+            "MkSkQBIhGus", // POPP​Y PAPPY​ DAY (with Korone)
+            "yIvcKk4vZ7Y", // 君色に染まる (with Mio and Robocco)
+            "9nD7aQ_cKAM" // バレンタイン・キッス (with Marine, Pekora and Matsuri)
         ]
     },
     "sora": {
@@ -73,6 +84,7 @@ let data = {
     "roboco": {
         "covers": [
             "K7FqZJS-ZwA", // リモコン (with Sora)
+            "yIvcKk4vZ7Y" // 君色に染まる (with Mio and Miko)
         ]
     },
 
@@ -87,7 +99,7 @@ let data = {
 
     // GAMERS
     "fubuki": {
-        "hololive": [
+        "hololiveOriginal": [
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Ayame)
         ],
         "covers": [
@@ -99,16 +111,18 @@ let data = {
             "G49bAinM6Lc", // 恋愛裁判
             "OGYu6Kj3bL0", // スイートマジック
             "saizawXi4i0", // ハロハロナリヤンス音頭
-            "qgeuRSawFaw" // ボンバーキングのテーマ
+            "qgeuRSawFaw", // ボンバーキングのテーマ
+            "MkSkQBIhGus" // POPP​Y PAPPY​ DAY (with Miko)
         ]
     },
     "mio": {
-        "hololive": [
+        "hololiveOriginal": [
             "x1BGG98tcrg", // 至上主義アドトラック (with Flare and Matsuri)
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Fubuki and Ayame)
         ],
         "covers": [
-            "ESM-OniA96w" // 「おとなの掟」 (with Okayu)
+            "ESM-OniA96w", // 「おとなの掟」 (with Okayu)
+            "yIvcKk4vZ7Y" // 君色に染まる (with Miko and Robocco)
         ]
     },
     "okayu": {
@@ -128,7 +142,7 @@ let data = {
 
     // JP GEN 1
     "haato": {
-        "hololive": [
+        "hololiveOriginal": [
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Polka and Nene)
         ],
         "original": [
@@ -136,7 +150,7 @@ let data = {
         ]
     },
     "matsuri": {
-        "hololive": [
+        "hololiveOriginal": [
             "x1BGG98tcrg" // 至上主義アドトラック (with Flare and Mio)
         ],
         "original": [
@@ -152,11 +166,12 @@ let data = {
             "f4dJFe4MGcs", // KING
             "1KyLE_Ejf-U", // Preserved Roses (with Rikka)
             "phGUYXm1e_I", // Colorful World
-            "MNcnT8wBcdw" // 心做し
+            "MNcnT8wBcdw", // 心做し
+            "9nD7aQ_cKAM" // バレンタイン・キッス (with Marine, Pekora and Miko)
         ]
     },
     "mel": {
-        "hololive": [
+        "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Shion, Choco and Rushia)
         ],
     },
@@ -168,17 +183,17 @@ let data = {
         ]
     },
     "ayame": {
-        "hololive": [
+        "hololiveOriginal": [
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Fubuki)
         ]
     },
     "choco": {
-        "hololive": [
+        "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Shion and Rushia)
         ]
     },
     "shion": {
-        "hololive": [
+        "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Choco and Rushia)
         ]
     },
@@ -191,7 +206,7 @@ let data = {
 
     // JP GEN 3
     "flare": {
-        "hololive": [
+        "hololiveOriginal": [
             "x1BGG98tcrg" // 至上主義アドトラック (with Matsuri and Mio)
         ],
         "covers": [
@@ -204,7 +219,8 @@ let data = {
         ],
         "covers": [
             "JYtt0inzDR4", // BLOODY STREAM
-            "Ur0K2WA67jw" // Alice in N.Y. (with Kanata, Sora, Flare and Suisei)
+            "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Sora, Flare and Suisei)
+            "9nD7aQ_cKAM" // バレンタイン・キッス (with Miko, Pekora and Matsuri)
         ]
     },
     "pekora": {
@@ -213,11 +229,12 @@ let data = {
             "uRB1G0cKpIk" // ぺこみこ大戦争！！
         ],
         "covers": [
-            "AAr2lHZLNyU" // ディスコミュ星人
+            "AAr2lHZLNyU", // ディスコミュ星人
+            "9nD7aQ_cKAM" // バレンタイン・キッス (with Marine, Miko and Matsuri)
         ]
     },
     "rushia": {
-        "hololive": [
+        "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Choco and Shion)
         ]
     },
@@ -260,23 +277,23 @@ let data = {
 
     // JP GEN 5
     "botan": {
-        "hololive": [
+        "hololiveOriginal": [
             "3qkXc6zheig" // BLUE CLAPPER (with Lamy, Polka and Nene)
         ]
     },
     "lamy": {
-        "hololive": [
+        "hololiveOriginal": [
             "3qkXc6zheig" // BLUE CLAPPER (with Botan, Polka and Nene)
         ]
     },
     "nene": {
-        "hololive": [
+        "hololiveOriginal": [
             "3qkXc6zheig", // BLUE CLAPPER (with Lamy, Polka and Botan)
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Polka and Haato)
         ]
     },
     "polka": {
-        "hololive": [
+        "hololiveOriginal": [
             "3qkXc6zheig", // BLUE CLAPPER (with Lamy, Nene and Botan)
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Nene and Haato)
         ],
