@@ -27,12 +27,26 @@ let names = {
     "shion": "Murasaki Shion",
     "subaru": "Oozora Subaru",
 
-    // JP GEN 2
+    // JP GEN 3
     "flare": "Shiranui Flare",
     "marine": "Houshou Marine",
     "noel": "Shirogane Noel",
     "pekora": "Usada Pekora",
     "rushia": "Uruha Rushia",
+
+    // JP GEN 4
+    "coco": "Kiryu Coco",
+    "kanata": "Amane Kanata",
+    "luna": "Himemori Luna",
+    "towa": "Tokoyami Towa",
+    "watame": "Tsunomaki Watame",
+
+    // JP GEN 5
+    "aloe": "Mona Aloe",
+    "botan": "Shishiro Botan",
+    "lamy": "Yukihana Lamy",
+    "nene": "Momosuzu Nene",
+    "polka": "Omaru Polka",
 };
 
 let data = {
@@ -538,6 +552,7 @@ let data = {
     },
 
     // JP GEN 4
+    "coco": {},
     "kanata": {
         "original": [],
         "covers": [
@@ -581,20 +596,37 @@ let data = {
     },
 
     // JP GEN 5
+    "aloe": {
+        "covers": [
+            "IixAr5W3TIc" // ほろふぁいぶが吹っ切れた (with Botan, Lamy, Nene and Polka)
+        ]
+    },
     "botan": {
         "hololiveOriginal": [
             "3qkXc6zheig" // BLUE CLAPPER (with Lamy, Polka and Nene)
+        ],
+        "covers": [
+            "o14s6S0k5qw", // Will
+            "IixAr5W3TIc" // ほろふぁいぶが吹っ切れた (with Aloe, Lamy, Nene and Polka)
         ]
     },
     "lamy": {
         "hololiveOriginal": [
             "3qkXc6zheig" // BLUE CLAPPER (with Botan, Polka and Nene)
+        ],
+        "covers": [
+            "IixAr5W3TIc", // ほろふぁいぶが吹っ切れた (with Aloe, Botan, Nene and Polka)
+            "JSOXoNVTy0g" // 好き！雪！本気マジック
         ]
     },
     "nene": {
         "hololiveOriginal": [
             "3qkXc6zheig", // BLUE CLAPPER (with Lamy, Polka and Botan)
             "CrbMV64PmPU" // さぷらいずぱらだいす！ (with Polka and Haato)
+        ],
+        "covers": [
+            "IixAr5W3TIc", // ほろふぁいぶが吹っ切れた (with Aloe, Lamy, Botan and Polka)
+            "kKqcQADSoIM" // 私、アイドル宣言
         ]
     },
     "polka": {
@@ -608,7 +640,8 @@ let data = {
         "covers": [
             "UpoysjZfWrU", // エンヴィーベイビー
             "NdHPnTd2Jd8", // ルーザーガール
-            "syhlmTNW_a8" // メンヘラじゃないもん！
+            "syhlmTNW_a8", // メンヘラじゃないもん！
+            "IixAr5W3TIc" // ほろふぁいぶが吹っ切れた (with Aloe, Lamy, Nene and Botan)
         ]
     },
 
