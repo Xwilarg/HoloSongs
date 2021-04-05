@@ -341,6 +341,7 @@ let data = {
             "ENSxJQ1o2ZA", // 私、アイドル宣言/赤井はあと
             "N0vBDacTJ9k", // ぽっぴっぽー
             "d71E3pHzibw", // 夏祭り (with Matsuri)
+            "nZ-g1pPNfts", // 好き！雪！本気マジック (with Haato)
         ]
     },
     "matsuri": {
@@ -367,7 +368,13 @@ let data = {
             "xpUQ-5dSJTk", // ファンサ
             "0Dr_qvnXJPE", // 君の知らない物語
             "MZm_Xy2zJq8", // ぼくの夢、メチャクソ無限湧き
-            "Pw6X2mocMRQ" // 月曜日の憂鬱
+            "Pw6X2mocMRQ", // 月曜日の憂鬱
+            "nZ-g1pPNfts", // 好き！雪！本気マジック (with Haato)
+            "z2pWWKSPofA", // スイートマジック (with Shion)
+            "kUxl0rkmD08", // しんでしまうとはなさけない！歌ってみた (with Ayame)
+            "ufZmpbMAotI", // カブトムシ (with Rikka)
+            "-wV0AH0u8ik", // 楓 / スピッツ (with Rikka)
+            "VbLsb2t1qzI", // チューリングラブ (with Rikka)
         ]
     },
     "mel": {
@@ -386,6 +393,9 @@ let data = {
     "ayame": {
         "hololiveOriginal": [
             "K84w0Iai40k" // 百花繚乱花吹雪 (with Mio and Fubuki)
+        ],
+        "covers": [
+            "kUxl0rkmD08", // しんでしまうとはなさけない！歌ってみた (with Matsuri)
         ]
     },
     "choco": {
@@ -399,7 +409,8 @@ let data = {
         ],
         "covers": [
             "hTBJMFkchqk", // スキキライ (with Okayu)
-            "OtpqIXEkMQA" // Mrs.Pumpkinの滑稽な夢 (with Okayu)
+            "OtpqIXEkMQA", // Mrs.Pumpkinの滑稽な夢 (with Okayu)
+            "z2pWWKSPofA" // スイートマジック (with Shion)
         ]
     },
     "subaru": {
@@ -594,6 +605,9 @@ let data = {
             "Z-q5aJm0UJE", // DADDY! DADDY! DO! (with Matsuri)
             "1KyLE_Ejf-U", // Preserved Roses (with Matsuri)
             "TSZ9RlU6EXk", // 点描の唄 (with Roboco)
+            "ufZmpbMAotI", // カブトムシ (with Matsuri)
+            "-wV0AH0u8ik", // 楓 / スピッツ (with Matsuri)
+            "VbLsb2t1qzI" // チューリングラブ (with Matsuri)
         ]
     },
 
