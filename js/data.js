@@ -47,6 +47,16 @@ let names = {
     "lamy": "Yukihana Lamy",
     "nene": "Momosuzu Nene",
     "polka": "Omaru Polka",
+
+    // ID GEN 1
+    "moona": "Moona Hoshinova",
+    "iofi": "Airani Iofifteen",
+    "risu": "Ayunda Risu",
+
+    // ID GEN 2
+    "anya": "Anya Melfissa",
+    "ollie": "Kureiji Ollie",
+    "reine": "Pavolia Reine",
 };
 
 let data = {
@@ -645,7 +655,21 @@ let data = {
         ]
     },
 
-    // ID Gen 2
+    // ID Gen 1
+    "moona": {
+        "original": [
+            "q4N7EhUWOAA" // 愛の小さな歌
+        ],
+        "covers": [
+            "GQKR0APNFKs", // FIRE BIRD
+            "jL8xPsLKCog", // Baby Doll-Utopia
+            "aOMWaZb0VRo", // Again
+            "W0_iSvXdM6c", // Synchronicity III: Requiem of the Endless World (with Aoi Sora)
+            "uf9YfzyLG2Q", // ほろふぁいぶが吹っ切れた (with Iofi and Risu)
+            "vpViBoIVrk0", // Shiny Smily Story (with Iofi and Risu)
+            "3Zr8H4B3MYM" // How You Like That (with Kureha Kurono)
+        ]
+    },
     "iofi": {
         "original": [
             "MJz6SHKmrC4" // Bersama Ioforia
@@ -653,12 +677,36 @@ let data = {
         "covers": [
             "lh5UqNxEbhs", // Happy Synthesizer (with Pochimaru)
             "jaf_SBcDhFU", // エイリアンエイリアン
-            "Q4-h-IdOqLs" // 太陽が似合うよ
+            "Q4-h-IdOqLs", // 太陽が似合うよ
+            "uf9YfzyLG2Q", // ほろふぁいぶが吹っ切れた (with Moona and Risu)
+            "vpViBoIVrk0" // Shiny Smily Story (with Moona and Risu)
+        ]
+    },
+    "risu": {
+        "covers": [
+            "uf9YfzyLG2Q", // ほろふぁいぶが吹っ切れた (with Iofi and Moona)
+            "vpViBoIVrk0", // Shiny Smily Story (with Iofi and Moona)
+            "PYzTq7YEPBI", // KING
+            "uw9SUSvWBN0", // Snow Halation
+            "0YX80lIi36w", // DADDY ! DADDY ! DO ! (with Oga)
+            "cos54QJsb7o" // DADDY ! DADDY ! DO ! (with Oga)
+        ]
+    },
+
+    // ID Gen 2
+    "anya": {
+        "covers": [
+            "0gznpr6oiac" // flos
         ]
     },
     "ollie": {
         "covers": [
             "0D-tcQjYf28" // エンヴィーベイビー (with Astel)
+        ]
+    },
+    "reine": {
+        "covers": [
+            "LfI8sxSFtuE" // KING
         ]
     },
 
@@ -735,6 +783,8 @@ let data = {
     "oga": {
         "covers": [
             "49hhGHTKHLs", // チューリングラブ (with Fubuki and Shien)
+            "0YX80lIi36w", // DADDY ! DADDY ! DO ! (with Risu)
+            "cos54QJsb7o", // DADDY ! DADDY ! DO ! (with Risu)
         ]
     }
 }
