@@ -109,10 +109,35 @@ let data = {
         ]
     },
     "suisei": {
+        "original": [
+            "3cqV5BKJHyk", // comet
+            "zLak0dxBKpM", // 天球、彗星は夜を跨いで
+            "vQHVGXdcqEQ" // NEXT COLOR PLANET
+        ],
         "covers": [
             "yk51RdzaMUE", // 月陽 ツキアカリ (with Kanata)
             "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Marine, Flare and Sora)
-            "5yDNEmcKQFY" // 餞の鳥 (with Sora)
+            "5yDNEmcKQFY", // 餞の鳥 (with Sora)
+            "LpkWFnRPd-M", // 乱舞のメロディ
+            "-wNSFmqhQsU", // フランシュシュ (with Pekora, Rushia, Noel, Flare and Marine)
+            "vhmFj1owmuk", // 今宵月の館にて (with Inui Toko)
+            "dPTeBvVJ_xY", // 覚醒
+            "68iRzgy6c00", // 光るなら (with Himaru Makita and Rentarou Akiyama)
+            "HkMXq08WlJo", // シャンパーニュ・デイ
+            "KiUvL-rp1zg", // メルティ♡キッチン (with Inui Toko)
+            "sm4KMKurd8E", // メルティランドナイトメア
+            "PerzMoTou-k", // ブルーバード
+            "_8eUrkYNnLY", // 創聖のアクエリオン
+            "9pgap38Os_k", // melty world
+            "WLj0Rg_bcvQ", // Shine!!
+            "X1T9M4F8sKk", // 劣等上等 (with Lupinus Knightley)
+            "-uQ4bc7otx8", // バレンタイン・キッス (with Lupinus Knightley, Kuon Ran and 黒羽満月)
+            "_PpTrPbRg0U", // コワレヤスキ (with Sekishiro Mico and Izumo Kasumi)
+            "qcQ9k7A5TDM", // エイリアンエイリアン (with Sekishiro Mico and Izumo Kasumi)
+            "bE2oZdUH_ps", // 神のまにまに (with Sekishiro Mico and Izumo Kasumi)
+            "a9EZ2KFTbYM", // アライブファクター (with Asano Ruri)
+            "m-demdSHuYI", // Holy Angel's Carol (with Inui Toko)
+            "-omKAd_sbFo", // チューリングラブ (with Hibiki Ao)
         ]
     },
 
@@ -201,7 +226,8 @@ let data = {
             "1KyLE_Ejf-U", // Preserved Roses (with Rikka)
             "phGUYXm1e_I", // Colorful World
             "MNcnT8wBcdw", // 心做し
-            "9nD7aQ_cKAM" // バレンタイン・キッス (with Marine, Pekora and Miko)
+            "9nD7aQ_cKAM", // バレンタイン・キッス (with Marine, Pekora and Miko)
+            "-wNSFmqhQsU", // フランシュシュ (with Suisei, Rushia, Noel, Flare and Marine)
         ]
     },
     "mel": {
@@ -244,7 +270,8 @@ let data = {
             "x1BGG98tcrg" // 至上主義アドトラック (with Matsuri and Mio)
         ],
         "covers": [
-            "Ur0K2WA67jw" // Alice in N.Y. (with Kanata, Marine, Sora and Suisei)
+            "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Marine, Sora and Suisei)
+            "-wNSFmqhQsU" // フランシュシュ (with Pekora, Rushia, Noel, Suisei and Marine)
         ]
     },
     "marine": {
@@ -254,7 +281,13 @@ let data = {
         "covers": [
             "JYtt0inzDR4", // BLOODY STREAM
             "Ur0K2WA67jw", // Alice in N.Y. (with Kanata, Sora, Flare and Suisei)
-            "9nD7aQ_cKAM" // バレンタイン・キッス (with Miko, Pekora and Matsuri)
+            "9nD7aQ_cKAM", // バレンタイン・キッス (with Miko, Pekora and Matsuri)
+            "-wNSFmqhQsU" // フランシュシュ (with Pekora, Rushia, Noel, Flare and Suisei)
+        ]
+    },
+    "noel": {
+        "covers": [
+            "-wNSFmqhQsU", // フランシュシュ (with Pekora, Rushia, Suisei, Flare and Marine)
         ]
     },
     "pekora": {
@@ -270,6 +303,9 @@ let data = {
     "rushia": {
         "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Choco and Shion)
+        ],
+        "covers": [
+            "-wNSFmqhQsU", // フランシュシュ (with Pekora, Suisei, Noel, Flare and Marine)
         ]
     },
 
