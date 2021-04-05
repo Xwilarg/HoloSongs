@@ -270,7 +270,8 @@ let data = {
             "OGYu6Kj3bL0", // スイートマジック
             "saizawXi4i0", // ハロハロナリヤンス音頭
             "qgeuRSawFaw", // ボンバーキングのテーマ
-            "MkSkQBIhGus" // POPP​Y PAPPY​ DAY (with Miko)
+            "MkSkQBIhGus", // POPP​Y PAPPY​ DAY (with Miko)
+            "MiuFIzr8bR0" // ヒャダインのじょーじょーゆーじょー (with Okayu)
         ]
     },
     "mio": {
@@ -280,7 +281,8 @@ let data = {
         ],
         "covers": [
             "ESM-OniA96w", // 「おとなの掟」 (with Okayu)
-            "yIvcKk4vZ7Y" // 君色に染まる (with Miko and Robocco)
+            "yIvcKk4vZ7Y", // 君色に染まる (with Miko and Robocco)
+            "2l_6oIGTrbg" // スパークル
         ]
     },
     "okayu": {
@@ -294,7 +296,11 @@ let data = {
             "PNA-sTiC0Ds", // ふわふわ時間
             "dXUJ0IDdX28", // 惑星ループ
             "ESM-OniA96w", // 「おとなの掟」 (with Mio)
-            "0OtNQEpSeIA" // チューリングラブ (with Aqua)
+            "0OtNQEpSeIA", // チューリングラブ (with Aqua)
+            "MiuFIzr8bR0", // ヒャダインのじょーじょーゆーじょー (with Korone)
+            "0scxODT68X4", // ウミユリ海底譚
+            "hTBJMFkchqk", // スキキライ (with Shion)
+            "OtpqIXEkMQA" // Mrs.Pumpkinの滑稽な夢 (with Shion)
         ]
     },
 
@@ -360,6 +366,10 @@ let data = {
     "shion": {
         "hololiveOriginal": [
             "t1yXDcuwzpY" // 今宵はHalloween Night! (with Mel, Choco and Rushia)
+        ],
+        "covers": [
+            "hTBJMFkchqk", // スキキライ (with Okayu)
+            "OtpqIXEkMQA" // Mrs.Pumpkinの滑稽な夢 (with Okayu)
         ]
     },
     "subaru": {
